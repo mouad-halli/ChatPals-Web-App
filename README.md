@@ -54,7 +54,7 @@ The Web-App contains 3 main sections: **Authentication**, **Settings**, **Home(U
 </table>
 
 ### Settings
-#### In this section you can see the anime that are on this website.
+#### In this Section you can upload your image or update your data, you can click the edit button to unlock the field you want to update then save.
 <table>
   <tr>
     <td><img src="readme-imgs/settings-computer.png" alt="settings-computer" /></td>
@@ -64,3 +64,34 @@ The Web-App contains 3 main sections: **Authentication**, **Settings**, **Home(U
     <td><img src="readme-imgs/settings-tablet.png" alt="settings-tablet" /></td>
   </tr> -->
 </table>
+
+### Chat - This Section contain the Chat-Nav && Chat-List
+
+####  - In the Chat-List you can find all you chat Channels
+
+<table>
+  <tr>
+    <td><img src="readme-imgs/chat-mobile.png" alt="chat-list" /></td>
+  </tr>
+</table>
+
+####  - In the Chat-Nav you can search for friends, send friend requests, receive friend requests, remove users from friend list, (Real-time).
+
+<table>
+  <tr>
+    <td><img src="readme-imgs/find-friends.png" alt="find-friends" /></td>
+    <td><img src="readme-imgs/friends.png" alt="friends-list" /></td>
+    <td><img src="readme-imgs/requests.png" alt="requests-list" /></td>
+  </tr>
+</table
+
+### Channel
+#### You can send and receive messages with real-time comunnication, you can also use emojis.
+  
+<table>
+  <tr>
+    <td><img src="readme-imgs/channel-computer.png" alt="channel-computer" /></td>
+    <td><img src="readme-imgs/channel-mobile.png" alt="channel-mobile" /></td>
+  </tr>
+</table
+  
