@@ -66,7 +66,6 @@ The Web-App contains 3 main sections: **Authentication**, **Settings**, **Home(U
 </table>
 
 ### Chat - This Section contain the Chat-Nav && Chat-List
-
 ####  - In the Chat-List you can find all you chat Channels
 
 <table>
@@ -83,8 +82,8 @@ The Web-App contains 3 main sections: **Authentication**, **Settings**, **Home(U
     <td><img src="readme-imgs/friends.png" alt="friends-list" /></td>
     <td><img src="readme-imgs/requests.png" alt="requests-list" /></td>
   </tr>
-</table
-
+</table>
+  
 ### Channel
 #### You can send and receive messages with real-time comunnication, you can also use emojis.
   
