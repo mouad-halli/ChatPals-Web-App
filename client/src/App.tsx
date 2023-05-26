@@ -16,7 +16,7 @@ const App = () => {
 	useEffect(() => {
 		const {1: route, 2: childRoute} = path
 
-		setHideMobileNavbar(childRoute === 'channel' ? true : false)
+		setHideMobileNavbar(childRoute === 'channel' || route === 'auth' ? true : false)
 		setHideComputerNavbar(route === 'auth' ? true : false)
 
 	}, [path])
