@@ -24,7 +24,7 @@
 </p>
 
 ## Sections
-The Web-App contains 3 main sections: **Authentication**, **Home(Under-Construction)**, **Chat** and **Channel**.
+The Web-App contains 3 main sections: **Authentication**, **Settings**, **Home(Under-Construction)**, **Chat** and **Channel**.
 
 <br />
 
