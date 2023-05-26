@@ -32,16 +32,16 @@ The Web-App contains 3 main sections: **Authentication**, **Settings**, **Home(U
 #### You can Authenticate safely with you google account or create an account manually, you can always hide or show you password.
 <table>
   <tr>
-    <td><img height="450px" src="readme-imgs/register-computer.png" alt="reagister-computer" /></td>
-    <td><img height="450px" src="readme-imgs/login-computer.png" alt="login-computer" /></td>
+    <td><img src="readme-imgs/register-computer.png" alt="reagister-computer" /></td>
+    <td align="center"><img src="readme-imgs/register-mobile.png" alt="reagister-mobile" /></td>
   </tr>
 <!--   <tr>
     <td><img src="readme-imgs/register-tablet.png" alt="reagister-tablet" /></td>
     <td><img src="readme-imgs/login-tablet.png" alt="login-tablet" /></td>
   <tr/> -->
   <tr>
-    <td align="center"><img height="450px" src="readme-imgs/register-mobile.png" alt="reagister-mobile" /></td>
-    <td align="center"><img height="450px" src="readme-imgs/login-mobile.png" alt="login-mobile" /></td>
+    <td><img src="readme-imgs/login-computer.png" alt="login-computer" /></td>
+    <td align="center"><img src="readme-imgs/login-mobile.png" alt="login-mobile" /></td>
   </tr>
 </table>
 
@@ -49,7 +49,7 @@ The Web-App contains 3 main sections: **Authentication**, **Settings**, **Home(U
 #### The Home section is currently under construction, if you have any ideas for this section you can contact me, maybe we will work together <3
 <table>
   <tr>
-    <td><img height="450px" src="readme-imgs/home-computer.png" alt="Home" /></td>
+    <td><img src="readme-imgs/home-computer.png" alt="Home" /></td>
   </tr>
 </table>
 
@@ -57,8 +57,8 @@ The Web-App contains 3 main sections: **Authentication**, **Settings**, **Home(U
 #### In this section you can see the anime that are on this website.
 <table>
   <tr>
-    <td><img height="450px" src="readme-imgs/settings-computer.png" alt="settings-computer" /></td>
-    <td><img height="450px" src="readme-imgs/settings-mobile.png" alt="settings-mobile" /></td>
+    <td><img src="readme-imgs/settings-computer.png" alt="settings-computer" /></td>
+    <td><img src="readme-imgs/settings-mobile.png" alt="settings-mobile" /></td>
   </tr>
 <!--   <tr>
     <td><img src="readme-imgs/settings-tablet.png" alt="settings-tablet" /></td>
