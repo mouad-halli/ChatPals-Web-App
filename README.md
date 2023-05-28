@@ -1,6 +1,6 @@
 <h1 align="center">ChatPals</h1>
 
-<h3 align="center">It's a MERN Stack Single-Page Chat Application</h3>
+<h3 align="center">It's a MERN Stack Single-Page Chat Web-Application</h3>
 
 ![Stack](https://www.bigscal.com/wp-content/uploads/2022/09/Features-of-Mern-stack-development-services-You-Should-Know.png)
 
